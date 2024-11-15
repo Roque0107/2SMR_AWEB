@@ -10,3 +10,6 @@ print(list(range(10, 0, -1)))
 print(list(range(-50, -57, -1)))
 print(list(range(17, 0, -2)))
 print(list(range(500, -1, -100)))
+
+
+#modificado
